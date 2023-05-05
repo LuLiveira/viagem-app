@@ -1,9 +1,7 @@
 package com.lucassilva.cliente;
 
-import java.net.URI;
 import java.util.List;
 
-import javax.print.attribute.standard.Media;
 import javax.transaction.Transactional;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
